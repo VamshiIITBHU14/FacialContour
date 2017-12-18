@@ -12,6 +12,7 @@
 		967A0E1C1FE7BA6E009F736C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 967A0E1A1FE7BA6E009F736C /* Main.storyboard */; };
 		967A0E1E1FE7BA6E009F736C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 967A0E1D1FE7BA6E009F736C /* Assets.xcassets */; };
 		967A0E211FE7BA6E009F736C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 967A0E1F1FE7BA6E009F736C /* LaunchScreen.storyboard */; };
+		967A0E2B1FE7BC8F009F736C /* CVPixelBufferExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 967A0E2A1FE7BC8F009F736C /* CVPixelBufferExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		967A0E1D1FE7BA6E009F736C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		967A0E201FE7BA6E009F736C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		967A0E221FE7BA6E009F736C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		967A0E2A1FE7BC8F009F736C /* CVPixelBufferExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CVPixelBufferExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				967A0E161FE7BA6E009F736C /* AppDelegate.swift */,
 				967A0E181FE7BA6E009F736C /* ViewController.swift */,
+				967A0E2A1FE7BC8F009F736C /* CVPixelBufferExtension.swift */,
 				967A0E1A1FE7BA6E009F736C /* Main.storyboard */,
 				967A0E1D1FE7BA6E009F736C /* Assets.xcassets */,
 				967A0E1F1FE7BA6E009F736C /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				967A0E191FE7BA6E009F736C /* ViewController.swift in Sources */,
 				967A0E171FE7BA6E009F736C /* AppDelegate.swift in Sources */,
+				967A0E2B1FE7BC8F009F736C /* CVPixelBufferExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
